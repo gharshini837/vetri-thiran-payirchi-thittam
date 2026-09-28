@@ -1,0 +1,10 @@
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+streamlit>=1.33.0
+python-docx>=1.1.0
+fpdf2>=2.7.9
+Pillow>=10.0.0
+requests>=2.31.0
+google-generativeai>=0.5.0
+python-dotenv>=1.0.1
+pydantic>=2.6.0
